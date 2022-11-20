@@ -1,2 +1,3 @@
-def print_one_equals_one():
-    return print("one_equals_one")
+def one_equals_one():
+    print("one_equals_one")
+    return 1 == 1
